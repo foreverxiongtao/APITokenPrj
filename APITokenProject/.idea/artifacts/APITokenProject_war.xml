@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="APITokenProject:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="com.desperado.war">
+      <element id="artifact" artifact-name="APITokenProject:war exploded" />
+    </root>
+  </artifact>
+</component>
